@@ -1,0 +1,12 @@
+vlib work
+vlog  CLZ_STAGE0.v
+vlog  CLZ_STAGE1.v
+vlog  CLZ_STAGE2.v
+vlog  CLZ_STAGE3.v
+vlog  CLZ_STAGE4.v
+vlog  CLZ_STAGE5.v
+vlog  CLZ_STAGE6.v
+vlog  CLZ.v
+vlog  Log2Table.v
+vlog  LOG2_FIXED_POINT.v
+vlog  LOG2_FIXED_POINT_tb.v
